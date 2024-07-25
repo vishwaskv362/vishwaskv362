@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaskv362&label=Profile%20views&color=24ffa0&style=plastic" alt="vishwaskv362" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Java Script and Frontend technologies**
 
 - 💬 Ask me about **MicroServices, REST API's development**
 
