@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas K V</h1>
-<h3 align="center">Aspiring Software Developer , Currently learning Devops</h3>
+<h3 align="center">Experienced backend developer specializing in designing and maintaining APIs and server-side systems. Proficient in Django and FastAPI, with strong skills in SQL for database management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaskv362&label=Profile%20views&color=24ffa0&style=plastic" alt="vishwaskv362" /> </p>
 
