@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Vishwas K V! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <h3>Backend Developer | API Specialist | Cloud Enthusiast</h3>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Specialist;Cloud+Enthusiast;Python+%26+Django+Expert;Microservices+Architect" alt="Typing SVG" />
+  </a>
   
   <p>
     <a href="https://twitter.com/kv362" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -58,4 +61,10 @@ Proficient in **Cloud Platforms (GCP, AWS)**, **Containerization (Docker, Kubern
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaskv362&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/vishwaskv362/vishwaskv362/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
