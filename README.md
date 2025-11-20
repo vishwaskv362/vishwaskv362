@@ -1,10 +1,14 @@
 <div align="center">
-  <h1>Hi there, I'm Vishwas K V! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vishwas%20K%20V&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Specialist;Cloud+Enthusiast;Python+%26+Django+Expert;Microservices+Architect" alt="Typing SVG" />
   </a>
   
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwaskv362&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br>
+
   <p>
     <a href="https://twitter.com/kv362" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="https://linkedin.com/in/vishwaskv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -67,3 +71,5 @@ Proficient in **Cloud Platforms (GCP, AWS)**, **Containerization (Docker, Kubern
 <div align="center">
   <img src="https://github.com/vishwaskv362/vishwaskv362/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
