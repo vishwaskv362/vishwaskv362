@@ -6,8 +6,6 @@
   </a>
   
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwaskv362&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  <br>
 
   <p>
     <a href="https://twitter.com/kv362" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
