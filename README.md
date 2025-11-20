@@ -54,8 +54,8 @@ Proficient in **Cloud Platforms (GCP, AWS)**, **Containerization (Docker, Kubern
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwaskv362&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=300" alt="vishwaskv362's stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaskv362&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=300&include_all_commits=true&count_private=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwaskv362&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" alt="vishwaskv362's stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaskv362&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css&card_width=320" alt="Top Languages" height="180"/>
 </div>
 
 <br>
