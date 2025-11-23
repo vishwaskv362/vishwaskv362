@@ -51,4 +51,20 @@ Proficient in **Cloud Platforms (GCP, AWS)**, **Containerization (Docker, Kubern
 
 <br>
 
+## 📊 Language Proficiency
+
+<div align="center">
+
+```text
+Python       ████████████████████░   95%
+TypeScript   ███████████████░░░░░░   75%
+JavaScript   ██████████████░░░░░░░   70%
+SQL          ████████████████░░░░░   80%
+Bash         ███████████░░░░░░░░░░   55%
+```
+
+</div>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
