@@ -51,18 +51,28 @@ Proficient in **Cloud Platforms (GCP, AWS)**, **Containerization (Docker, Kubern
 
 <br>
 
-## 📊 Language Proficiency
+## 🌍 Visitor Map
 
 <div align="center">
+  <img src="https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvishwaskv362&label=Visitors&countColor=%2337d67a&style=flat&labelStyle=upper" />
+</div>
 
-```text
-Python       ████████████████████░   95%
-TypeScript   ███████████████░░░░░░   75%
-JavaScript   ██████████████░░░░░░░   70%
-SQL          ████████████████░░░░░   80%
-Bash         ███████████░░░░░░░░░░   55%
-```
+<br>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/vishwaskv362/count.svg" />
+</p>
+
+<br>
+
+## 🏙️ GitHub Skyline
+
+<div align="center">
+  <a href="https://skyline.github.com/vishwaskv362/2024">
+    <img src="https://img.shields.io/badge/View%20My%202024%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
+  <br><br>
+  <p><i>Click above to see my contribution graph as a 3D city skyline!</i></p>
 </div>
 
 <br>
